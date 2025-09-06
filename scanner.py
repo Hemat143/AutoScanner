@@ -69,7 +69,7 @@ def print_banner():
     print("Advanced Web Security Scanner".center(80))
     print("Version 2.0".center(80))
     print("="*80)
-    print()
+    print(Author bye : hanamanthpotaraddi)
 
 def run_command(command, suppress_output=False):
     """Run a system command and return the output"""
